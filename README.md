@@ -13,7 +13,7 @@ This Python script provides information about the current session on Linux syste
 To use this script, simply run it from the command line:
 
 ```python
-python display_server.py
+python wayland_detector.py
 ```
 
 ## Script Details
