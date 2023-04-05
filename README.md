@@ -27,7 +27,7 @@ If the loginctl command fails to execute, the script displays an error message a
 ## Example Output
 
 ```python
-$ python session_info.py
+$ python wayland_detector.py
 wayland
 ```
 
